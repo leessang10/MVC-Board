@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h1>작성글 목록</h1>
 	<table width="500" cellpadding="0" cellspacing="0" border="1">
 		<tr>
 			<td>번호</td>
